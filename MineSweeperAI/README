@@ -1,0 +1,6 @@
+Running the project - Minesweeper game:
+
+Run the command sh setup.sh (which runs the command :pip install -r requirements.txt)
+Run the game:
+On windows - py game.py
+On linux - python game.py
