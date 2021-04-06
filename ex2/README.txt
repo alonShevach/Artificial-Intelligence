@@ -1,6 +1,4 @@
-205954209
-321776304
-*****
+
 Comments:
 --------------------Evaluation function for ReflexAgent--------------------
 At each row and at each column on the given board, this function
